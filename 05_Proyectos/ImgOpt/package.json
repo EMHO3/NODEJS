@@ -1,0 +1,13 @@
+{
+  "name": "imgopt",
+  "version": "1.0.0",
+  "description": "Aplicaion de optimizador de imagenes",
+  "main": "app .js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Emir Huaroc",
+  "license": "MIT"
+}
